@@ -1,0 +1,8 @@
+**/.idea/*
+**/target/**
+**/*.iml
+**/log/*
+**/upload/**
+**/node_modules/**
+.idea
+
